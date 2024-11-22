@@ -4,6 +4,6 @@ pip install requests colorama pyfiglet
 
 git clone https://github.com/mrmaliciouss/wifi.git
 
-cd wifis
+cd wifi
 
 python wifis.py
